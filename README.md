@@ -3,3 +3,6 @@ these is the repository with a copy of all the work that I submitted to cs50 202
 
 - Week 0
   - Bernard the Bear.sb3
+
+- Week 1
+  - Hello
